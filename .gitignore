@@ -1,0 +1,9 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Text editor settings
+*.swp
+*.swo
+.DS_Store
