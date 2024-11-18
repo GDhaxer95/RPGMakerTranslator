@@ -1,0 +1,61 @@
+[
+    {
+      "id": 1,
+      "name": "イベント1",
+      "note": "このイベントは村人との会話です。",
+      "pages": [
+        {
+          "conditions": {},
+          "list": [
+            {
+              "code": 101,
+              "parameters": [
+                "村人A",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "parameters": [
+                "こんにちは、旅人さん！何かお手伝いしましょうか？"
+              ]
+            }
+          ],
+          "trigger": 0,
+          "direction": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "イベント2",
+      "note": "アイテムを渡すイベント。",
+      "pages": [
+        {
+          "conditions": {},
+          "list": [
+            {
+              "code": 101,
+              "parameters": [
+                "商人B",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "parameters": [
+                "お探しのアイテムはこちらです！"
+              ]
+            }
+          ],
+          "trigger": 0,
+          "direction": 2
+        }
+      ]
+    }
+  ]
+  

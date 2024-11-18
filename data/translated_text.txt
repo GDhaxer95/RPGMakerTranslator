@@ -1,0 +1,28 @@
+Hero
+Warrior of Light
+The main character.
+A legendary swordsman who set out on a journey to save the world.
+Wizard
+Sage of Fire
+Fellow character.
+A sage who wields powerful magic.
+Time Passage
+Advances in-game time.
+game over
+An event occurs when a player is defeated.
+Herb
+Recovers 50 HP.
+Basic recovery item.
+Magic wand
+Increase Attack by 5.
+A wand often used by wizards.
+Event 1
+This event is a conversation with a villager.
+Event 2
+Item delivery event.
+Fire Spell
+Deal Fire damage to all enemies.
+Basic attack spell.
+Prayer for recovery
+Restores HP of all allies
+Recovery skills.

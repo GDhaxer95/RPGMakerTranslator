@@ -23,8 +23,8 @@ def extract_text(file_path):
     return texts
 
 def main():
-    input_folder = "../www/data"
-    output_file = "../data/extracted_text.txt"
+    input_folder = "./www"
+    output_file = "./data/extracted_text.txt"
     extracted_texts = []
 
     for file_name in os.listdir(input_folder):
