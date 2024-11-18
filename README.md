@@ -13,3 +13,15 @@ This project helps translate RPG Maker MV games from Japanese to English using P
 
    ```bash
    python scripts/extract_text.py
+
+2. **Translate Text**:
+   Use `translate_text.py` to translate the text into English using Google Translate
+
+   ```bash
+   python scripts/translate_text.py
+
+3. **Inject Translations**:
+   Run `injext_text.py` to inject the translations back into JSON files.
+
+   ```bash
+   python scripts/translate_text.py
